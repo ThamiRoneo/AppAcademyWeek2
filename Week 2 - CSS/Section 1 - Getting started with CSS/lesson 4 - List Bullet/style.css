@@ -1,0 +1,18 @@
+h1 {
+    color: green;
+    font-family: sans-serif;
+}
+
+p {
+    color: coral;
+    font-family: sans-serif;
+}
+
+/* list styles */
+ul {
+    list-style-type: circle;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
