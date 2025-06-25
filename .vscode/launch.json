@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "brave",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "/home/kayron1/Documents/AppAcademyWeek2/Week 2 - CSS/Section 2 - Superhero App/lesson 8 - Adding 'About' and 'Contact' Page/index.html"
+        }
+    ]
+}
